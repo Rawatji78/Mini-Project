@@ -233,7 +233,7 @@ export default function BusinessWebsite() {
             </div>
           </div>
           <div className="border-t border-slate-700 pt-8 text-center text-slate-400">
-            <p>&copy; 2024 BusinessHub. All rights reserved.</p>
+            <p>&copy; BusinessHub. All rights reserved.</p>
           </div>
         </div>
       </footer>
